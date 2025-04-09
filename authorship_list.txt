@@ -1,0 +1,8 @@
+Work division:
+
+Both authors have split their work equally and all elements were developped together in each others' physical presence. 
+This makes the split of work by the two authors in features impossible as all elements had 50%-50% contribution.
+Hence, we would like to declare that we had a 50% to 50% split on all system features.
+Therefore, this declaration may serve as proof that both authors are equally responsible for all features of the system
+and may therefore be evaluated in the same way. 
+This document shall serve as equivalent to the authorship list described in the assignment description.
